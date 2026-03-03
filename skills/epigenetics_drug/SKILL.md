@@ -44,7 +44,7 @@ Link epigenetics to drug response: gene regulation, variant effects, drug intera
 
 ## Usage Example
 
-> **Note:** Replace `<YOUR_SCP_HUB_API_KEY>` with your own SCP Hub API Key. You can obtain one from the [SCP Platform](https://scp.intern-ai.org.cn).
+> **Note:** Replace `<YOUR_SCP_HUB_API_KEY>` with your own SCP Hub API Key. You can obtain one from the [SCP Platform](https://scphub.intern-ai.org.cn).
 
 ```python
 import asyncio

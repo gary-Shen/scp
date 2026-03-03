@@ -42,7 +42,7 @@ Evaluate pediatric drug safety: pediatric use info, child safety, dosage forms, 
 
 ## Usage Example
 
-> **Note:** Replace `<YOUR_SCP_HUB_API_KEY>` with your own SCP Hub API Key. You can obtain one from the [SCP Platform](https://scp.intern-ai.org.cn).
+> **Note:** Replace `<YOUR_SCP_HUB_API_KEY>` with your own SCP Hub API Key. You can obtain one from the [SCP Platform](https://scphub.intern-ai.org.cn).
 
 ```python
 import asyncio
