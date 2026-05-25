@@ -103,7 +103,6 @@ class SciverseClient:
 ### Initialize and use
 
 ```python
-# Replace <ID> with the SCP Hub server ID returned at registration time.
 SERVER_URL = "https://scp.intern-ai.org.cn/api/v1/mcp/<ID>/Sciverse"
 API_KEY = "<YOUR_SCP_HUB_API_KEY>"
 
